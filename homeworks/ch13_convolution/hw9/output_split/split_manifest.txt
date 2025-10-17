@@ -1,1 +1,0 @@
-Input:  /Users/wangliwei/Desktop/prototype_input\nOutput: /Users/wangliwei/Desktop/output_split\nFractions: train=0.7000, val=0.1500, test=0.1500\nSeed: 42\n\nPer-class counts (train / val / test):\n  birds: 8 / 2 / 2\n  cats: 8 / 2 / 2\n  dogs: 8 / 2 / 2\n\nTotals:\n  train: 24\n  val:   6\n  test:  6\n
